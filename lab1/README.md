@@ -1,6 +1,7 @@
 # lab1
 
-A new Flutter project.
+The task was to create appBar, change Text to my name then change color of appBar using class Color.
+After that I needed to add image with using image.asset.
 
 ## Getting Started
 
